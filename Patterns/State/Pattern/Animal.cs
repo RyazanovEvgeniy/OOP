@@ -1,4 +1,4 @@
-﻿namespace State;
+﻿namespace Pattern;
 
 // Класс животного
 class Animal
