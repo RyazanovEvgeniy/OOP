@@ -1,4 +1,4 @@
-﻿namespace Observer;
+﻿namespace Pattern;
 
 // Интерфейс наблюдателя
 public interface IObserver
