@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace Iterator.Words;
+namespace Pattern.Word;
 
 // Итератор прямого обхода, реализующий интерфейс IEnumerator
 class StraightIterator(WordCollection collection) : IEnumerator

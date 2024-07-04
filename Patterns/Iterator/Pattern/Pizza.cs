@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace Iterator.Pizzas;
+namespace Pattern.Pizza;
 
 // Класс пицца
 class Pizza(string name, float weight, float price)

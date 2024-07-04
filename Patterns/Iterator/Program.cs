@@ -1,5 +1,5 @@
-﻿using Iterator.Words;
-using Iterator.Pizzas;
+﻿using Pattern.Pizza;
+using Pattern.Word;
 
 // Суть шаблона Итератор - вынос поведения обхода коллекции в отдельный класс,
 // что позволяет избежать размывания сущности коллекции,
