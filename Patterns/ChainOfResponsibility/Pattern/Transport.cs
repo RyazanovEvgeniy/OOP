@@ -1,4 +1,4 @@
-﻿namespace Pattern.Transport;
+﻿namespace Pattern;
 
 // Интерфейс нашего транспорта
 public interface ITransport
