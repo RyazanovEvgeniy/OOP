@@ -1,4 +1,4 @@
-﻿namespace Pattern.Command;
+﻿namespace Pattern;
 
 // Интерфейс команды
 public interface ICommand
