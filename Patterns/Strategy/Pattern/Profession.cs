@@ -1,4 +1,4 @@
-namespace Strategy;
+namespace Pattern;
 
 // Интерфейс профессии человека
 public interface IProfession

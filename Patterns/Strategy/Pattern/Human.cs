@@ -1,4 +1,4 @@
-﻿namespace Strategy;
+﻿namespace Pattern;
 
 // Класс нашего человека
 class Human
