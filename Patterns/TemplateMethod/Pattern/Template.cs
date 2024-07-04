@@ -1,4 +1,4 @@
-﻿namespace TemplateMethod;
+﻿namespace Pattern;
 
 // Класс человека
 abstract class Human
