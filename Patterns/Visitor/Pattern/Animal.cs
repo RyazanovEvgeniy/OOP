@@ -1,4 +1,4 @@
-﻿namespace Visitor;
+﻿namespace Pattern;
 
 public interface IAnimal
 {
