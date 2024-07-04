@@ -1,4 +1,4 @@
-﻿namespace Memento;
+﻿namespace Pattern;
 
 // Интерфейс снимка (Backup'a)
 public interface IMemento

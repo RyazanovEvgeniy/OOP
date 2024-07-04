@@ -1,4 +1,4 @@
-﻿namespace Memento;
+﻿namespace Pattern;
 
 // Класс человека
 class Human
