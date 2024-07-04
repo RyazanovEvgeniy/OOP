@@ -1,4 +1,4 @@
-﻿namespace ChainOfResponsibility;
+﻿namespace Pattern.Transport;
 
 // Интерфейс нашего транспорта
 public interface ITransport
