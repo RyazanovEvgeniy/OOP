@@ -1,4 +1,4 @@
-﻿namespace Pattern.Mediator;
+﻿namespace Pattern;
 
 public interface IMediator
 {
