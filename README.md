@@ -9,7 +9,7 @@ Open–Closed Principle (OCP))</br>
 The open-closed principle states that software entities should be open for extension, but closed for modification
 
 Liskov Substitution Principle (LSP)</br>
-Subtype Requirement: Let ϕ(x) be a property provable about objects x of type T)</br>
+Subtype Requirement: Let ϕ(x) be a property provable about objects x of type T</br>
 then ϕ(y) should be true for objects y of type S where S is a subtype of T
 
 Interface Segregation Principle (ISP))</br>
