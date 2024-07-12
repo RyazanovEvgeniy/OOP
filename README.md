@@ -13,10 +13,11 @@ Subtype Requirement: Let ϕ(x) be a property provable about objects x of type T<
 then ϕ(y) should be true for objects y of type S where S is a subtype of T
 
 Interface Segregation Principle (ISP))</br>
-The interface segregation principle states that the interface of a program)</br>
+The interface segregation principle states that the interface of a program</br>
 should be split in a way that the user/client would only have access to the necessary methods related to their needs
 
 Dependency Inversion Principle (DIP))</br>
-High-level modules should not import anything from low-level modules)</br>
-Both should depend on abstractions (e.g., interfaces))</br>
-Abstractions should not depend on details. Details (concrete implementations) should depend on abstractions
+High-level modules should not import anything from low-level modules</br>
+Both should depend on abstractions (e.g., interfaces)</br>
+Abstractions should not depend on details</br>
+Details (concrete implementations) should depend on abstractions
