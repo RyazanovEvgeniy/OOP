@@ -20,6 +20,6 @@ have access to the necessary methods related to their needs
 
 Dependency Inversion Principle (DIP))</br>
 High-level modules should not import anything from low-level modules</br>
-Both should depend on abstractions (e.g., interfaces)</br>
-Abstractions should not depend on details</br>
-Details (concrete implementations) should depend on abstractions
+both should depend on abstractions (e.g., interfaces)</br>
+abstractions should not depend on details</br>
+details (concrete implementations) should depend on abstractions
