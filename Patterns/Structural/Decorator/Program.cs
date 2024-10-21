@@ -30,13 +30,13 @@ Console.WriteLine($"Viber(messengerStandart2) messenger.SendInformation() == {me
 
 // Downcast и проверка
 Viber viber = (Viber)messenger;
-Console.WriteLine($"Viber(messengerStandart2) messenger.SendAlarm() == {messenger.SendAlarm()}");
-Console.WriteLine($"Viber(messengerStandart2) messenger.SendInformation() == {messenger.SendInformation()}\n");
+Console.WriteLine($"Viber(messengerStandart2) viber.SendAlarm() == {viber.SendAlarm()}");
+Console.WriteLine($"Viber(messengerStandart2) viber.SendInformation() == {viber.SendInformation()}\n");
 
 // Проверяем работает ли смена стандарта
 viber.SetMessenger(messengerStandart1);
-Console.WriteLine($"Viber(messengerStandart1) messenger.SendAlarm() == {messenger.SendAlarm()}");
-Console.WriteLine($"Viber(messengerStandart1) messenger.SendInformation() == {messenger.SendInformation()}\n");
+Console.WriteLine($"Viber(messengerStandart1) viber.SendAlarm() == {viber.SendAlarm()}");
+Console.WriteLine($"Viber(messengerStandart1) viber.SendInformation() == {viber.SendInformation()}\n");
 
 // Ну чисто поржать
 messenger = new Telegram(messenger);

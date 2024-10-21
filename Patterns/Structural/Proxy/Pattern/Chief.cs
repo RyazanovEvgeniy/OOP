@@ -41,7 +41,8 @@ class Chief : IChief
         // но просто имитируется ее работа.
 
         // Создаем и возвращаем список заказов
-        return         [
+        return
+        [
             // Добавляем 3 заказа со случайным статусом
             new Order() { Name = "Burger", StatusId = RandomizeStatus() },
             new Order() { Name = "Pasta", StatusId = RandomizeStatus() },
